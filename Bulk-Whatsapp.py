@@ -2,6 +2,7 @@ import pywhatkit
 
 L=[]
 
+
 def whatsapp_message():
     i = int(input("Enter the total number of contacts you want to send message : "))
     for i in range(0,i):
